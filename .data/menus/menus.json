@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "id": "1",
+            "name": "Simply Veg Pizaa",
+            "description": "This is Veg Pizza",
+            "crust": ["Cheese Burst", "Extra Cheese", "Thin"],
+            "toppings": ["Mushroom", "Corn"],
+            "price": "200"
+        },
+        {
+            "id": "2",
+            "name": "Chicken Pizaa",
+            "description": "This is Chicken Pizza",
+            "crust": ["Cheese Burst", "Extra Cheese", "Thin"],
+            "toppings": ["Beckan", "Mushroom", "Corn"],
+            "price": "400"
+        },
+        {
+            "id": "3",
+            "name": "Chicken Cheesey Pizaa",
+            "description": "This is Chessy Chicken Pizza",
+            "crust": ["Cheese Burst", "Extra Cheese", "Thin"],
+            "toppings": ["Beckan", "Mushroom", "Corn"],
+            "price": "500"
+        }
+    ]
+
+}
